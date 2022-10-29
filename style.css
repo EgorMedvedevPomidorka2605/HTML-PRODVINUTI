@@ -1,0 +1,28 @@
+body {
+    background-color: hsl(192, 60%, 70%);
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+   
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 400px;
+}
+.mountain {
+    position: absolute;
+    left: 350px;
+    bottom: -500px;
+  }
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+  bottom: 100px;
+}
+.top-container {
+  background-color: hsl(192, 60%, 70%);
+  position: relative;
+  padding-top: 150px;
+}
+h1 { font-family: 'Lobster', arial, serif; color:rgb(107, 0, 4) ; }
